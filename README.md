@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 - 🌟 Main languages: Python, JavaScript
 
-- 📫 Feel free to reach me out **alexamenta@gmail.com**
+- 📫 Feel free to reach me out **amentaalex.aa@gmail.com**
   
 
 <!--Intro end-->
