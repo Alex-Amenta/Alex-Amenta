@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 - 📚 I am self-taught but I have also completed a bootcamp, in the Full Stack Developer career, with the company "HENRY"
 
-- 📝 I have a strong interest in Data Science and Artificial Intelligence
+- 📝 I have a great interest in Front-end development and artificial intelligence.
 
 - 🔭 Working on Deep Learning & Machine Learning
 
-- 🌟 Main languages: Python, JavaScript
+- 🌟 Main languages: JavaScript, TypeScript, Python
 
 - 📫 Feel free to reach me out **amentacarp@gmail.com**
   
