@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--horizontal divider(gradiant)-->
-![Welcome to my profile (1)](https://github.com/Alex-Amenta/Alex-Amenta/assets/111576219/d3d8c0a4-6a47-4fb2-9c7f-c8ed1c86a7e5)
+<img width="1200" height="300" alt="Banner Perfil de GitHub" src="https://github.com/user-attachments/assets/649177e5-3ea7-4a4f-b7c5-d29063d4ec09" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -40,15 +39,13 @@ Here are some ideas to get you started:
 
 <!--Intro start-->
 
-- 💻 I’m a self taught Full Stack Developer and a Machine Learning Developer
+- 🧑🏽 I am a front-end developer with more than 3 years of experience in the area, specialized in React
 
 - 📚 I am self-taught but I have also completed a bootcamp, in the Full Stack Developer career, with the company "HENRY"
 
 - 📝 I have a great interest in Front-end development and artificial intelligence.
 
-- 🔭 Working on Deep Learning & Machine Learning
-
-- 🌟 Main languages: JavaScript, TypeScript, Python
+- 🌟 Main languages: TypeScript, React, React Native
 
 - 📫 Feel free to reach me out **amentacarp@gmail.com**
   
@@ -64,7 +61,7 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,discord,express,github,html,js,linux,postgresql,nextjs,webpack,nodejs,py,react,vite,redux,tailwind,jest,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,express,github,html,js,linux,postgresql,nextjs,webpack,nodejs,py,react,vite,redux,tailwind,jest,ts,vscode,figma,docker,studio&perline=14" />
   </a>
 </p>
 <br/>
